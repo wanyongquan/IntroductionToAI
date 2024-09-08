@@ -44,9 +44,10 @@ email: wanyq@gench.edu.cn
 
 ## 阅读材料
 
-1.   《人工智能：一种现代的方法（第三版）》，Stuart J.Russell, Peter Norvig著，清华大学出版社， 2013年11月 [pdf](https://pan.baidu.com/s/1sAAFHAUx7plXPYMm2-TgIg) 提取码: 7222 。
-2.   人工智能简史（第二版）》, 尼克著，人民邮电出版社，2021年1月。   
-3.   Python程序设计案例教程（慕课版），明日科技著，人民邮电出版社，2022年11月。  
+1. 人工智能：一种现代的方法（第三版）》，Stuart J.Russell, Peter Norvig著，清华大学出版社， 2013年11月 [pdf](https://pan.baidu.com/s/1sAAFHAUx7plXPYMm2-TgIg) 提取码: 7222 。
+2. 人工智能简史（第二版）》, 尼克著，人民邮电出版社，2021年1月。   
+3. Python程序设计案例教程（慕课版），明日科技著，人民邮电出版社，2022年11月。 
+4. 简明Python教程 [pdf](https://github.com/wanyongquan/IntroductionToAI/blob/main/docs/%E7%AE%80%E6%98%8E%20Python%20%E6%95%99%E7%A8%8B.pdf)
 
 其他的材料，例如教材、视频和其他资料，可能以电子版提供。 
 
@@ -68,14 +69,14 @@ email: wanyq@gench.edu.cn
 | 周次            | 单元                       | 主题                                                         | 教材章节 | 作业发布 | 作业截止 |
 | --------------- | -------------------------- | ------------------------------------------------------------ | -------- | -------- | -------- |
 | 1               | 绪论 + Python概述          | 课程概述；人工智能概述([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-%20%E7%BB%AA%E8%AE%BA.pdf))；Python简介([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-Python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.pdf))； [人工智能免费在线学习资源](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md) | ch1      | proj0    |          |
-| 2               | 知识表示+Python基础        | 一阶谓词逻辑 ； Python语法、过程控制语句、数据类型、         | 2.1-2.2  |          |          |
-| 3               | 知识表示+python进阶        | 产生式、语义网络； 函数、面向对象编程                        | 2.3-2.5  |          | proj0    |
-| 4               | 状态空间法                 | 科学计算库的使用:numpy, pandas, matplotlib, scikit-learn     | 3,1      |          |          |
-| 5（国庆节调休） | 盲目式搜索+Python实现      | 盲目式搜索-BFS，DFS                                          | 3.2      | proj1    |          |
+| 2               | 知识表示+Python基础        | 一阶谓词逻辑、产生式 [pdf](https://github.com/wanyongquan/IntroductionToAI/blob/main/slides/lecture02/lec02-01%E7%9F%A5%E8%AF%86%E8%A1%A8%E7%A4%BAnew.pdf); Python语法、过程控制语句 [pdf](https://github.com/wanyongquan/IntroductionToAI/blob/main/slides/lecture02/lec02-1%20Python%E7%A8%8B%E5%BA%8F%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf);  实战练习1：Python基础语法[pdf](https://github.com/wanyongquan/IntroductionToAI/blob/main/slides/lecture02/%E5%AE%9E%E6%88%98%E7%BB%83%E4%B9%A01-Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.pdf)        | 2.1-2.3  |          |          |
+| 3               | 知识表示+python进阶        | 状态空间法；序列数据类型                        | 3.1  |          | proj0    |
+| 4               | 盲目式搜索+Python实现       | 盲目式搜索-BFS+Python实现     函数、面向对象编程     | 3.2      |          |          |
+| 5（国庆节调休） | 盲目式搜索+Python实现      | 盲目式搜索-DFS+Python实现                                          | 3.2      | proj1    |          |
 | 6               | 启发式搜索+Python实现      | 启发式搜索                                                   | 3.3      |          |          |
-| 7               | 机器学习                   | 机器学习概述； 期中测验；                                    | 5.1-5.2  |          | proj1    |
-| 8               | 线性回归 + Python实现      |                                                              | 5.4.3    | proj2    |          |
-| 9               | KNN分类 + Python实现类     |                                                              | 5.4.1    |          |          |
+| 7               | 机器学习                   | 机器学习概述；科学计算库的使用:numpy, pandas, matplotlib；期中测验；                                    | 5.1-5.2  |          | proj1    |
+| 8               | 线性回归 + Python实现      |   线性回归的Python实现;   scikit-learn                       | 5.4.3    | proj2    |          |
+| 9               | KNN分类 + Python实现类     |   KNN分类的Python实现;                                       | 5.4.1    |          |          |
 | 10              | 朴素贝叶斯分类+ Python实现 |                                                              | 5.4.1    |          | proj2    |
 | 11              | 决策树分类+ Python实现     |                                                              | 5.4.1    | proj3    |          |
 | 12              | 聚类+ Python实现           |                                                              | 5.4.2    |          |          |
