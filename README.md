@@ -65,31 +65,31 @@ email: wanyq@gench.edu.cn
 
 ## 课程进度计划
 
-| 周次            | 单元                       | 主题                                                     | 教材章节 | 作业发布 | 作业截止 |
-| --------------- | -------------------------- | -------------------------------------------------------- | -------- | -------- | -------- |
-| 1               | 绪论 + Python概述          | 课程概述；人工智能概述([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-%20%E7%BB%AA%E8%AE%BA.pdf))；Python简介([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-Python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.pdf))； [人工智能免费在线学习资源](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md)   | ch1      | proj0    |          |
-| 2               | 知识表示+Python基础        | 一阶谓词逻辑 ； Python语法、过程控制语句、数据类型、     | 2.1-2.2  |          |          |
-| 3               | 知识表示+python进阶        | 产生式、语义网络； 函数、面向对象编程                    | 2.3-2.5  |          | proj0    |
-| 4               | 状态空间法                 | 科学计算库的使用:numpy, pandas, matplotlib, scikit-learn | 3,1      |          |          |
-| 5（国庆节调休） | 盲目式搜索+Python实现      | 盲目式搜索-BFS，DFS                                      | 3.2      | proj1    |          |
-| 6               | 启发式搜索+Python实现      | 启发式搜索                                               | 3.3      |          |          |
-| 7               | 机器学习                   | 机器学习概述； 期中测验；                                | 5.1-5.2  |          | proj1    |
-| 8               | 线性回归 + Python实现      |                                                          | 5.4.3    | proj2    |          |
-| 9               | KNN分类 + Python实现类     |                                                          | 5.4.1    |          |          |
-| 10              | 朴素贝叶斯分类+ Python实现 |                                                          | 5.4.1    |          | proj2    |
-| 11              | 决策树分类+ Python实现     |                                                          | 5.4.1    | proj3    |          |
-| 12              | 聚类+ Python实现           |                                                          | 5.4.2    |          |          |
-| 13              | 深度学习                   | 人工神经网络                                             | ch 6     |          | proj3    |
-| 14              |                            | CNN                                                      | ch 7     |          |          |
-| 15              | 人工智能中的伦理           | 伦理报告                                                 | /        |          |          |
-| 16              |                            | 大作业汇报                                               | /        |          |          |
+| 周次            | 单元                       | 主题                                                         | 教材章节 | 作业发布 | 作业截止 |
+| --------------- | -------------------------- | ------------------------------------------------------------ | -------- | -------- | -------- |
+| 1               | 绪论 + Python概述          | 课程概述；人工智能概述([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-%20%E7%BB%AA%E8%AE%BA.pdf))；Python简介([ppt](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/lecture01-Python%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.pdf))； [人工智能免费在线学习资源](https://github.com/wanyongquan/IntroductionToAI/blob/main/lecture01/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md) | ch1      | proj0    |          |
+| 2               | 知识表示+Python基础        | 一阶谓词逻辑 ； Python语法、过程控制语句、数据类型、         | 2.1-2.2  |          |          |
+| 3               | 知识表示+python进阶        | 产生式、语义网络； 函数、面向对象编程                        | 2.3-2.5  |          | proj0    |
+| 4               | 状态空间法                 | 科学计算库的使用:numpy, pandas, matplotlib, scikit-learn     | 3,1      |          |          |
+| 5（国庆节调休） | 盲目式搜索+Python实现      | 盲目式搜索-BFS，DFS                                          | 3.2      | proj1    |          |
+| 6               | 启发式搜索+Python实现      | 启发式搜索                                                   | 3.3      |          |          |
+| 7               | 机器学习                   | 机器学习概述； 期中测验；                                    | 5.1-5.2  |          | proj1    |
+| 8               | 线性回归 + Python实现      |                                                              | 5.4.3    | proj2    |          |
+| 9               | KNN分类 + Python实现类     |                                                              | 5.4.1    |          |          |
+| 10              | 朴素贝叶斯分类+ Python实现 |                                                              | 5.4.1    |          | proj2    |
+| 11              | 决策树分类+ Python实现     |                                                              | 5.4.1    | proj3    |          |
+| 12              | 聚类+ Python实现           |                                                              | 5.4.2    |          |          |
+| 13              | 深度学习                   | 人工神经网络                                                 | ch 6     |          | proj3    |
+| 14              |                            | CNN                                                          | ch 7     |          |          |
+| 15              | 人工智能中的伦理           | 伦理报告                                                     | /        |          |          |
+| 16              |                            | 大作业汇报                                                   | /        |          |          |
 
 ## 作业和实验
 
 -   每项作业都包含书面和编程部分。
 -   书面和编程作业都将以电子方式提交。提交说明将与每个作业一起发布在 云班课上。
 -   编程作业要求使用 Python 编写。
-  
+
 ## 提交说明
 ### 提交内容
 对于书面答案，请提交PDF文件。请勿提交 Microsoft Word 或其他格式。
@@ -114,4 +114,3 @@ email: wanyq@gench.edu.cn
 ## 延期提交
 - 您可以在作业截止日期之前申请延期。延期的正当理由包括（但不一定限于）面试、出于研究或学术目的的旅行以及生病。
 - 迟交的作业（未事先获得延期）每天将被扣 10%。截止日期后3天以上将不再接受提交作业。(Penalized score) = (Your raw score) * (1 - 0.1 * (# of days past deadline))
-  
