@@ -88,7 +88,7 @@ email: wanyq@gench.edu.cn
 ## 作业和实验
 
 -   每项作业都包含书面和编程部分。
--   书面和编程作业都将以电子方式提交。提交说明将与每个作业一起发布在 云班课上。
+-   书面和编程作业都将以电子方式提交。[提交说明](https://github.com/wanyongquan/IntroductionToAI/blob/main/submit_instructions.md)将与每个作业一起发布在 云班课上。
 -   编程作业要求使用 Python 编写。
 
 ## 提交说明
